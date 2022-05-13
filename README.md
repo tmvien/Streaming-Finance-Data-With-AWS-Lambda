@@ -17,6 +17,9 @@ The notebook contains four parts.
 - 3)	Comparison of Opening and Closing Price 
 - 4)	Average Highest Hourly Stock Price 
 
+## Execution Results
+![execution](assets/exec_results.png)
+
 ## Kinesis Configuration
 
 ![kinesis](assets/kinesis_config.png)
